@@ -34,7 +34,7 @@ import { useState } from 'react'
        {numeroFavorito()}
  
        <p className="read-the-docs">
-         Click on the Vite and React logos to learn more
+         Emmanuel Porras Castro
        </p>
      </>
    )
