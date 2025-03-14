@@ -27,7 +27,7 @@ import { useState } from 'react'
        </div>
        <h1>Vite + React</h1>
  
-       {/*  Counter para que este actualizado */}
+       
        <Counter count={count} setCount={setCount} />
  
        {/* Mostrar mensaje cuando sea 9 */}
